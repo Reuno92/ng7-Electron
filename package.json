@@ -27,6 +27,8 @@
     "dots": "^0.1.0",
     "junit": "^1.4.9",
     "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "phantomjs": "^2.1.7",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.26"
   },
